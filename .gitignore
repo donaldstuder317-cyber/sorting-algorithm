@@ -1,0 +1,18 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache & pytest artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Node / Vite (in case any dependencies sit at root)
+node_modules/
+dist/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
